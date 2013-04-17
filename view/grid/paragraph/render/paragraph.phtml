@@ -1,0 +1,12 @@
+<?php
+
+if( $this->paragraph->parserError )
+{
+    echo '<a href="'.$this->paragraph->inputUrl.'" target="_blank">'
+         .$this->paragraph->inputUrl
+         ."</a>";
+}
+else
+{
+    echo $this->paragraph->embedHtml;
+}
