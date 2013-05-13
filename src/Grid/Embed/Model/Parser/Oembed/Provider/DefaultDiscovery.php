@@ -73,8 +73,8 @@ class DefaultDiscovery extends ProviderAbstract
 
         try
         {
-            $httpClient     = clone $this->getServiceLocator()
-                                         ->get( 'Zend\Http\Client' );
+            $httpClient     = $this->getServiceLocator()
+                                   ->get( 'Zend\Http\Client' );
             $httpResponse   = $httpClient->setUri( $url )
                                          ->send();
 
