@@ -1,7 +1,7 @@
 {
-    "name": "webriq/gridguyz-embed",
+    "name": "gridguyz/embed",
     "type": "gridguyz-module",
-    "description": "Embed module for Gridguyz",
+    "description": "Embed module for Gridguyz CMS",
     "license": "CC-BY-SA-3.0",
     "keywords": [
         "gridguyz",
@@ -29,8 +29,8 @@
     },
     "require": {
         "php": ">=5.4",
-        "webriq/gridguyz-installer": "*",
-        "webriq/gridguyz-core": "*"
+        "gridguyz/module-installer": "*",
+        "gridguyz/core": "*"
     },
     "autoload": {
         "psr-0": {
