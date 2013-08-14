@@ -39,5 +39,10 @@
         "classmap": [
             "Module.php"
         ]
+    },
+    "extra": {
+        "modules": {
+            "Grid\\Embed": "Embed"
+        }
     }
 }
