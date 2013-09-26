@@ -41,6 +41,9 @@
         ]
     },
     "extra": {
+        "display-icon": {
+            "63": "https://raw.github.com/gridguyz/embed/%reference%/icons/63x63.png"
+        },
         "display-name": {
             "en": "Simplified Media Embed Package (oEmbed)"
         },
