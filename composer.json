@@ -50,8 +50,6 @@
         "display-description": {
             "en": "Would you like to embed videos from Youtube, Vimeo, galleries from FlickR, presentations from Slideshare or WordPress content? With the support of the oEmbed format, you can do all this and much more in a smart and easy way.\n\nYou can get more information about oEmbed here: <http://oembed.com> and you can browse the ever growing list of those who support that format: <http://oembed.com/#section6>."
         },
-        "modules": {
-            "Grid\\Embed": "Embed"
-        }
+        "module": "Grid\\Embed"
     }
 }
