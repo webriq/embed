@@ -78,7 +78,7 @@ return array(
                     'spec'  => array(
                         'options'   => array(
                             'options'   => array(
-                                'code' => array(
+                                'media' => array(
                                     'options'   => array(
                                         'embed' => 'paragraph.type.embed',
                                     ),
