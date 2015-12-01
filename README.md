@@ -27,6 +27,6 @@ Some of them, namely:
 License
 -------
 
-WebriQ CMS is under 
+WebriQ CMS is under **BSD 3-Clause** (BSD-3-Clause).  
 More info at [LICENSE.txt](LICENSE.txt).
 
