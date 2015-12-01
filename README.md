@@ -1,5 +1,5 @@
-Embed module for Gridguyz
-=========================
+Embed module for WebriQ CMS 
+============================
 
 Embed module provide a paragraph to easily embed thirdparty content,
 such as Youtube videos.
@@ -27,6 +27,6 @@ Some of them, namely:
 License
 -------
 
-Gridguyz is under **Creative Commons Attribution-ShareAlike 3.0** (cc-by-sa-3.0).
+WebriQ CMS is under **BSD 3-Clause** (BSD-3-Clause).  
 More info at [LICENSE.txt](LICENSE.txt).
 
